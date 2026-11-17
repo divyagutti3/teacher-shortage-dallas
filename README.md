@@ -17,7 +17,7 @@ Teacher staffing shortages are often discussed in terms of vacant positions, tea
 This project will examine how these sources can be collected and combined to study teacher staffing demand across Texas independent school districts (ISDs). The analysis will focus on independent school districts serving any portion of Dallas County to determine what information is publicly available and whether the data can be compared consistently. Substitute teacher staffing will also be considered if reliable district-level data can be obtained.
 
 
-**RQ:How can publicly available administrative data and online job postings be combined to measure teacher staffing demand across independent school districts serving any portion of Dallas County, Texas?**
+**RQ: How can publicly available administrative data and online job postings be combined to measure teacher staffing demand across independent school districts serving any portion of Dallas County, Texas?**
 
 A central challenge is that the number of advertised positions does not necessarily equal the number of teacher vacancies. A posting may cover multiple positions, remain online after a position has been filled, or reflect ongoing recruitment rather than an immediate staffing need. Similarly, workforce statistics such as teacher employment and attrition can help describe staffing conditions but do not, on their own, establish how many positions a district needs to fill at a given time.
 
@@ -34,10 +34,14 @@ The project will not assume that a larger number of online postings necessarily 
 Beginning with a small sample of Dallas-area ISDs will make it possible to evaluate the feasibility of the approach within the scope of the course. If the data collection process proves reliable, the method could later be extended to additional districts across Texas. The findings could also help identify whether substitute staffing information adds a useful dimension to existing workforce indicators.
 
 # References
-Gershenson, S. (2012). How do substitute teachers substitute? An empirical study of substitute-teacher labor supply. Economics of Education Review, 31(4), 410–430. https://doi.org/10.1016/j.econedurev.2011.12.006
-Luscombe, A., Dick, K., & Walby, K. (2022). Algorithmic thinking in the public interest: Navigating technical, legal, and ethical hurdles to web scraping in the social sciences. Quality & Quantity, 56, 1023–1044. https://doi.org/10.1007/s11135-021-01164-0
-Nguyen, T. D., Lam, C. B., & Bruno, P. (2024). What do we know about the extent of teacher shortages nationwide? A systematic examination of reports of U.S. teacher shortages. AERA Open, 10. https://doi.org/10.1177/23328584241276512
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2019). Understanding teacher shortages: An analysis of teacher supply and demand in the United States. Education Policy Analysis Archives, 27(35). https://doi.org/10.14507/epaa.27.3696
-Templeton, T., Wivagg, J., Yusuf, I., & Priyanti, N. (2026, March). The Texas teacher workforce. University of Houston Education Research Center, College of Education. https://www.uh.edu/education/research/institutes-centers/erc/reports-publications/texas_teacher_workforce_report_2026_v3_3_25_26.pdf
+- Gershenson, S. (2012). How do substitute teachers substitute? An empirical study of substitute-teacher labor supply. Economics of Education Review, 31(4), 410–430. https://doi.org/10.1016/j.econedurev.2011.12.006
+
+- Luscombe, A., Dick, K., & Walby, K. (2022). Algorithmic thinking in the public interest: Navigating technical, legal, and ethical hurdles to web scraping in the social sciences. Quality & Quantity, 56, 1023–1044. https://doi.org/10.1007/s11135-021-01164-0
+
+- Nguyen, T. D., Lam, C. B., & Bruno, P. (2024). What do we know about the extent of teacher shortages nationwide? A systematic examination of reports of U.S. teacher shortages. AERA Open, 10. https://doi.org/10.1177/23328584241276512
+
+- Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2019). Understanding teacher shortages: An analysis of teacher supply and demand in the United States. Education Policy Analysis Archives, 27(35). https://doi.org/10.14507/epaa.27.3696
+
+- Templeton, T., Wivagg, J., Yusuf, I., & Priyanti, N. (2026, March). The Texas teacher workforce. University of Houston Education Research Center, College of Education. https://www.uh.edu/education/research/institutes-centers/erc/reports-publications/texas_teacher_workforce_report_2026_v3_3_25_26.pdf
 
  
